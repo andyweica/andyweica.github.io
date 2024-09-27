@@ -1,1 +1,0 @@
-mywebapplication.example.com
